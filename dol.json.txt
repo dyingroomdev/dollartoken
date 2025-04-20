@@ -1,0 +1,8 @@
+{
+    "name": "Dollar Token",
+    "symbol": "DOL",
+    "description": "A stable ERC-20 token pegged to the US Dollar.",
+    "image": "https://amzgaming.xyz/wp-content/uploads/2025/04/dol.png",
+    "website": "https://dollartoken.com",
+    "decimals": 18
+}
